@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-tgu-utils"
+description = "Nodes: MPN Switch, MPN Reroute, PN Switch. This is a set of custom nodes for ComfyUI. Mainly focus on control switches."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/TGu-97/ComfyUI-TGu-utils"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-TGu-utils"
+Icon = ""
